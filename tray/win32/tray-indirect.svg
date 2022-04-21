@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 640 640" style="enable-background:new 0 0 640 640;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000045589627808431896570000015757785049670152110_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#rect1659_00000041997110056174239200000001281113407562264960_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#0055FF;}
+</style>
+<g>
+	<g>
+		<g>
+			<defs>
+				<circle id="SVGID_1_" cx="320" cy="320" r="320"/>
+			</defs>
+			<clipPath id="SVGID_00000165913675501571769690000011496461524568094620_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="layer5" style="clip-path:url(#SVGID_00000165913675501571769690000011496461524568094620_);">
+				
+					<linearGradient id="rect1659_00000059997177749741516170000006118192908481390478_" gradientUnits="userSpaceOnUse" x1="-4.261054e-05" y1="1418.4" x2="640.0001" y2="778.4001" gradientTransform="matrix(1 0 0 1 0 -778.4)">
+					<stop  offset="0" style="stop-color:#7266F0"/>
+					<stop  offset="1" style="stop-color:#734ED3"/>
+				</linearGradient>
+				
+					<rect id="rect1659" x="0" y="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#rect1659_00000059997177749741516170000006118192908481390478_);" width="640" height="640"/>
+			</g>
+		</g>
+	</g>
+	<path class="st2" d="M320,236c-19,0-110,71-126,71c-17,0-122-41-135-33c-7,15,103,130,133,130c29,0,117-61,127-61
+		c10,0,97,61,127,61s140-115,133-130c-12-8-118,33-135,33C430,307,339,236,320,236z"/>
+	<circle class="st3" cx="529" cy="111" r="106"/>
+</g>
+</svg>
