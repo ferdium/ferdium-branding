@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="svg9"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="ferdium-osicons.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs978" />
+<style
+   type="text/css"
+   id="style920">
+	.st0{display:none;}
+	.st1{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#7E7E7E;}
+	.st2{display:inline;}
+	
+		.st3{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path870_00000026158774974550782500000010219097466067674007_);stroke:#FFFFFF;stroke-width:12.8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.024;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	
+		.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#circle1113_00000057135151969643970020000002309479894307053982_);stroke:#FFFFFF;stroke-width:12.8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.024;}
+	
+		.st6{fill-rule:evenodd;clip-rule:evenodd;fill:url(#circle3889_00000147188186079077258540000000774080630942378425_);stroke:#FFFFFF;stroke-width:12.8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.024;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:url(#circle1016_00000073686331057464903120000009921045060015362991_);}
+	.st8{display:none;opacity:0.3775;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;}
+</style>
+<sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1.0"
+   id="namedview11"
+   inkscape:current-layer="layer6"
+   inkscape:guide-bbox="true"
+   inkscape:pagecheckerboard="true"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   pagecolor="#808080"
+   showgrid="false"
+   showguides="true"
+   inkscape:snap-bbox="true"
+   inkscape:snap-bbox-midpoints="true"
+   inkscape:snap-bbox-edge-midpoints="false"
+   inkscape:snap-page="false"
+   inkscape:snap-object-midpoints="true"
+   inkscape:bbox-paths="false"
+   inkscape:bbox-nodes="false"
+   inkscape:snap-midpoints="true"
+   inkscape:snap-center="true">
+	<sodipodi:guide
+   position="256,573.05439"
+   orientation="1,0"
+   id="guide11294" /><sodipodi:guide
+   position="704.80335,246.35983"
+   orientation="0,-1"
+   id="guide11296" /></sodipodi:namedview>
+
+
+
+
+<g
+   id="g1024"
+   inkscape:groupmode="layer"
+   inkscape:label="Win32"
+   style="display:inline"><g
+   inkscape:groupmode="layer"
+   id="g11622"
+   inkscape:label="Bounding Box"
+   style="display:inline"><rect
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:5.15107;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+     id="rect11620"
+     width="512"
+     height="512"
+     x="0"
+     y="0"
+     inkscape:export-filename="/Users/fernando/Downloads/tray-indirect.png"
+     inkscape:export-xdpi="48"
+     inkscape:export-ydpi="48" /></g>
+	<g
+   id="g1018"
+   inkscape:groupmode="layer"
+   inkscape:label="Back">
+		
+			<linearGradient
+   id="circle1016_00000137847432078275244850000011627749736657852824_"
+   gradientUnits="userSpaceOnUse"
+   x1="82.1763"
+   y1="429.5947"
+   x2="430.16071"
+   y2="81.610298">
+			<stop
+   offset="0"
+   style="stop-color:#7266F0"
+   id="stop962" />
+			<stop
+   offset="1"
+   style="stop-color:#734ED3"
+   id="stop964" />
+		</linearGradient>
+		
+			<circle
+   id="circle1016"
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+   cx="256.20001"
+   cy="255.60001"
+   r="246.10001"
+   inkscape:export-filename="/Users/fernando/Downloads/tray-indirect.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48" />
+	</g>
+	<g
+   id="g1022"
+   inkscape:groupmode="layer"
+   inkscape:label="Moustache"
+   style="display:inline">
+		<path
+   id="path1020"
+   sodipodi:nodetypes="zscszscsz"
+   class="st4"
+   d="m 256.6,200.3 c -14.3,0 -82.7,53.3 -94.4,53.3 -12.6,0 -91.8,-30.6 -100.9,-24.5 -5.1,11 77.6,97.6 100.1,97.6 22.1,0 87.6,-46.1 95.2,-46.1 7.6,0 73.1,46.1 95.2,46.1 22.5,0 105.2,-86.6 100.1,-97.6 -9.1,-6.2 -88.3,24.5 -100.9,24.5 -11.7,0 -80.1,-53.3 -94.4,-53.3 z"
+   style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:7.55905512;stroke-miterlimit:4;stroke-dasharray:none"
+   inkscape:export-filename="/Users/fernando/Downloads/tray-indirect.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48" />
+	</g><g
+   inkscape:groupmode="layer"
+   id="layer5"
+   inkscape:label="Indicators"
+   style="display:none"><g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Indirect"
+     style="display:inline"><circle
+       style="fill:#0088cc;fill-opacity:1;stroke:#005a87;stroke-width:20;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5777"
+       cx="387.21341"
+       cy="125.71548"
+       r="110.88752"
+       inkscape:export-filename="/Users/fernando/Downloads/tray-indirect.png"
+       inkscape:export-xdpi="48"
+       inkscape:export-ydpi="48" /></g><g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Unread"
+     style="display:inline"><circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#b60000;stroke-width:20;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       id="path1218"
+       cx="387.21341"
+       cy="125.71548"
+       r="110.88752"
+       inkscape:export-filename="/Users/fernando/Downloads/tray-unread.png"
+       inkscape:export-xdpi="48"
+       inkscape:export-ydpi="48" /></g></g>
+</g><g
+   inkscape:groupmode="layer"
+   id="layer3"
+   inkscape:label="Linux"
+   style="display:none"><g
+     inkscape:groupmode="layer"
+     id="g11643"
+     inkscape:label="Bounding Box"
+     style="display:inline"><rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:4.00878;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11641"
+       width="398.46027"
+       height="398.46027"
+       x="56.769875"
+       y="56.769875"
+       inkscape:export-filename="/Users/fernando/Downloads/linux/tray-indirect@2x.png"
+       inkscape:export-xdpi="30.809999"
+       inkscape:export-ydpi="30.809999" /></g><g
+     id="g11649"
+     inkscape:groupmode="layer"
+     inkscape:label="Moustache"
+     style="display:inline">
+		<path
+   id="path11647"
+   sodipodi:nodetypes="zscszscsz"
+   class="st4"
+   d="m 256.6,200.3 c -14.3,0 -82.7,53.3 -94.4,53.3 -12.6,0 -91.8,-30.6 -100.9,-24.5 -5.1,11 77.6,97.6 100.1,97.6 22.1,0 87.6,-46.1 95.2,-46.1 7.6,0 73.1,46.1 95.2,46.1 22.5,0 105.2,-86.6 100.1,-97.6 -9.1,-6.2 -88.3,24.5 -100.9,24.5 -11.7,0 -80.1,-53.3 -94.4,-53.3 z"
+   style="fill:#ffffff;fill-opacity:1;stroke:#292929;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   inkscape:export-filename="/Users/fernando/Downloads/linux/tray-indirect@2x.png"
+   inkscape:export-xdpi="30.809999"
+   inkscape:export-ydpi="30.809999" />
+	</g><g
+     inkscape:groupmode="layer"
+     id="g11634"
+     inkscape:label="Indicators"
+     style="display:none"><g
+       inkscape:groupmode="layer"
+       id="g11628"
+       inkscape:label="Indirect"
+       style="display:inline"><circle
+         style="fill:#0088cc;fill-opacity:1;stroke:#005a87;stroke-width:10;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+         id="circle11626"
+         cx="380.39334"
+         cy="134.53555"
+         r="70.719917"
+         inkscape:export-filename="/Users/fernando/Downloads/linux/tray-indirect@2x.png"
+         inkscape:export-xdpi="30.809999"
+         inkscape:export-ydpi="30.809999" /></g><g
+       inkscape:groupmode="layer"
+       id="g11632"
+       inkscape:label="Unread"
+       style="display:inline"><circle
+         style="fill:#ff0000;fill-opacity:1;stroke:#b60000;stroke-width:10;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+         id="circle11630"
+         cx="380.39334"
+         cy="134.53555"
+         r="70.719917"
+         inkscape:export-filename="/Users/fernando/Downloads/linux/tray-unread@2x.png"
+         inkscape:export-xdpi="30.809999"
+         inkscape:export-ydpi="30.809999" /></g></g></g><g
+   inkscape:groupmode="layer"
+   id="layer4"
+   inkscape:label="Darwin"
+   style="display:none"><g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Bounding Box"
+     style="display:inline"><rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:3.10735;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11270"
+       width="393"
+       height="242.73529"
+       x="60"
+       y="140"
+       inkscape:export-filename="/Users/fernando/Downloads/light/tray-indirect@2x.png"
+       inkscape:export-xdpi="16.610001"
+       inkscape:export-ydpi="16.610001" /></g><g
+     id="g11171"
+     inkscape:groupmode="layer"
+     inkscape:label="Moustache Inactive"
+     style="display:inline">
+		<path
+   id="path11169"
+   sodipodi:nodetypes="zscszscsz"
+   class="st4"
+   d="m 256.6,200.3 c -14.3,0 -82.7,53.3 -94.4,53.3 -12.6,0 -91.8,-30.6 -100.9,-24.5 -5.1,11 77.6,97.6 100.1,97.6 22.1,0 87.6,-46.1 95.2,-46.1 7.6,0 73.1,46.1 95.2,46.1 22.5,0 105.2,-86.6 100.1,-97.6 -9.1,-6.2 -88.3,24.5 -100.9,24.5 -11.7,0 -80.1,-53.3 -94.4,-53.3 z"
+   style="fill:#000000;fill-opacity:1"
+   inkscape:export-filename="/Users/fernando/Downloads/light/tray-indirect@2x.png"
+   inkscape:export-xdpi="16.610001"
+   inkscape:export-ydpi="16.610001" />
+	</g><g
+     id="g11165"
+     inkscape:groupmode="layer"
+     inkscape:label="Moustache Active/Dark"
+     style="display:inline">
+		<path
+   id="path11163"
+   sodipodi:nodetypes="zscszscsz"
+   class="st4"
+   d="m 256.6,200.3 c -14.3,0 -82.7,53.3 -94.4,53.3 -12.6,0 -91.8,-30.6 -100.9,-24.5 -5.1,11 77.6,97.6 100.1,97.6 22.1,0 87.6,-46.1 95.2,-46.1 7.6,0 73.1,46.1 95.2,46.1 22.5,0 105.2,-86.6 100.1,-97.6 -9.1,-6.2 -88.3,24.5 -100.9,24.5 -11.7,0 -80.1,-53.3 -94.4,-53.3 z"
+   style="fill:#ffffff;fill-opacity:1"
+   inkscape:export-filename="/Users/fernando/Downloads/light/tray-active-indirect@2x.png"
+   inkscape:export-xdpi="16.610001"
+   inkscape:export-ydpi="16.610001" />
+	</g><g
+     inkscape:groupmode="layer"
+     id="g11230"
+     inkscape:label="Indicators"
+     style="display:inline"><g
+       inkscape:groupmode="layer"
+       id="g11224"
+       inkscape:label="Indirect"
+       style="display:inline"><circle
+         style="fill:#0088cc;fill-opacity:1;stroke:#005a87;stroke-width:10;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+         id="circle11222"
+         cx="387.74899"
+         cy="204.97908"
+         r="62.076256"
+         inkscape:export-filename="/Users/fernando/Downloads/light/tray-indirect@2x.png"
+         inkscape:export-xdpi="16.610001"
+         inkscape:export-ydpi="16.610001" /></g><g
+       inkscape:groupmode="layer"
+       id="g11228"
+       inkscape:label="Unread"
+       style="display:inline"><circle
+         style="fill:#ff0000;fill-opacity:1;stroke:#b60000;stroke-width:10;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+         id="circle11226"
+         cx="387.74899"
+         cy="204.97908"
+         r="62.076256"
+         inkscape:export-filename="/Users/fernando/Downloads/light/tray-unread@2x.png"
+         inkscape:export-xdpi="16.610001"
+         inkscape:export-ydpi="16.610001" /></g></g></g>
+
+</svg>
